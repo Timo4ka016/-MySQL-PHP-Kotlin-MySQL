@@ -4,3 +4,6 @@ PHP
 Kotlin
 MySql
 Volley
+
+PHP files should be thrown into the htdocs folder of the XAMPP application
+In the value of the URL variable in android studio, instead of localhost, we add our IPv4 address
